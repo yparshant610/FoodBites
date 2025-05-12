@@ -1,6 +1,6 @@
 # 🍔 Food Bites – Never Feel Hungry
 
-Welcome to **Food Bites**, a vibrant and modern food ordering app UI designed in **Figma**. This project showcases an intuitive user interface for a smooth food delivery experience, from browsing menus to placing orders.
+Welcome to **Food Bites**, a sleek and modern mobile UI design for a food ordering app. Built in **Figma**, this UI focuses on delivering a smooth, visually engaging, and user-friendly experience to browse restaurants, view dishes, and place orders easily.
 
 ---
 
@@ -10,42 +10,47 @@ Welcome to **Food Bites**, a vibrant and modern food ordering app UI designed in
 
 | Splash Screen | Login Page | Sign Up Page |
 |:-------------:|:----------:|:------------:|
-| ![Splash Screen](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/splash.png?raw=true) | ![Login Page](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/login.png?raw=true) | ![Sign Up Page](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/signup.png?raw=true) |
+| ![Splash](./assets/screenshots/First_screen.png) | ![Login](./assets/screenshots/Login.png) | ![Sign Up](./assets/screenshots/Signup.png) |
 
 ---
 
 ### 🏠 Main App Screens
 
-| Home Page | Restaurant Details | Dish Details | Cart Page |
-|:---------:|:------------------:|:------------:|:----------:|
-| ![Home Page](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/home.png?raw=true) | ![Restaurant Page](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/restaurant.png?raw=true) | ![Dish Details](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/dish.png?raw=true) | ![Cart Page](https://github.com/yparshant610/FoodBites/blob/main/assets/screenshots/cart.png?raw=true) |
+| Home Page | Restaurant Page | Dish Page | Cart Page | Order Page |
+|:---------:|:----------------:|:---------:|:----------:|:-----------:|
+| ![Home](./assets/screenshots/home.png) | ![Restaurant](./assets/screenshots/buy.png) | ![Dish](./assets/screenshots/order.png) | ![Cart](./assets/screenshots/cart.png) | ![Order](./assets/screenshots/order.png) |
 
 ---
 
 ## 🎯 Features Designed
 
-- Elegant splash screen with branding
-- Authentication (Login & Sign Up) screens
-- Food category browsing
-- Restaurant detail & menu interface
-- Dish customization and cart management
+- 🍽️ Splash screen with strong branding and tagline.
+- 🔐 Login and Sign Up pages with social media login options.
+- 🏠 Home screen showcasing popular categories and restaurants.
+- 🍕 Restaurant and dish detail screens with interactive UI.
+- 🛒 Cart management and checkout experience.
 
 ---
 
 ## 🛠 Tools Used
 
 - 🎨 **Figma** – UI/UX Design Tool
-- 🖼️ Exported as **PNG** for preview
-- 📁 Hosted screenshots on GitHub Assets
+- 🖼️ **PNG** Assets – For presenting high-quality screen previews
+
+---
+
+## 📎 View Prototype
+
+[🔗 View Live Figma Prototype](https://www.figma.com/your-prototype-link) <!-- Replace with actual Figma prototype link -->
 
 ---
 
 ## 🤝 Let's Connect
 
-If you liked this project or want to collaborate, feel free to reach out!
+If you liked this UI design or are interested in collaboration, feel free to reach out.
 
-> “Good food, beautifully designed.” 🍽️
+> “Good food is all the sweeter when shared with good design.” 🍽️
 
 ---
 
-© 2025 **Food Bites** by [Y. Parshant](https://github.com/yparshant610)
+© 2025 Food Bites UI by PARSHANT YADAV
